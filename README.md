@@ -1,1 +1,3 @@
-# Personal site with LITTLE updates :p https://sarah-rami27.github.io/cv/
+#CV
+Personal site with LITTLE updates 
+https://sarah-rami27.github.io/cv/
